@@ -1,0 +1,25 @@
+{'country_code': 'IT', 'name': 'AVN_WIRED_PRINTERS', 'description': 'wired printers vlan 303', 'network_id': 27, 'cidr': '10.70.44.0/22', 'id': 25, 'domain_id': 0, 'group': 'AVN'}
+{'name': 'Net_10_0_0_0', 'description': 'Default Network', 'network_id': 4, 'cidr': '10.0.0.0/8', 'id': 2, 'domain_id': 0, 'group': 'Net-10-172-192'}
+{'name': 'Net_172_16_0_0', 'description': 'Default Network', 'network_id': 5, 'cidr': '172.16.0.0/12', 'id': 3, 'domain_id': 0, 'group': 'Net-10-172-192'}
+{'name': 'Net_192_168_0_0', 'description': 'Default Network', 'network_id': 6, 'cidr': '192.168.0.0/16', 'id': 4, 'domain_id': 0, 'group': 'Net-10-172-192'}
+{'name': 'Internal', 'description': 'Default Network', 'network_id': 7, 'cidr': '0.0.0.1/32', 'id': 5, 'domain_id': 0, 'group': 'DMZ'}
+{'name': 'External', 'description': 'Default Network', 'network_id': 8, 'cidr': '0.0.0.2/32', 'id': 6, 'domain_id': 0, 'group': 'DMZ'}
+{'name': 'VPN_Addresses_Space', 'description': 'Default Network', 'network_id': 9, 'cidr': '0.0.0.3/32', 'id': 7, 'domain_id': 0, 'group': 'VPN_Addresses_Space'}
+{'name': 'Proxy_Servers', 'description': 'Default Network', 'network_id': 10, 'cidr': '0.0.0.4/32', 'id': 8, 'domain_id': 0, 'group': 'Proxy_Servers'}
+{'name': 'NAT_Ranges', 'description': 'Default Network', 'network_id': 11, 'cidr': '0.0.0.5/32', 'id': 9, 'domain_id': 0, 'group': 'NAT_Ranges'}
+{'name': 'Server_Network', 'description': 'Default Network', 'network_id': 12, 'cidr': '0.0.0.7/32', 'id': 10, 'domain_id': 0, 'group': 'Server_Network'}
+{'name': 'VoIP_Networks', 'description': 'Default Network', 'network_id': 13, 'cidr': '0.0.0.11/32', 'id': 11, 'domain_id': 0, 'group': 'VoIP_Networks'}
+{'name': 'Regulatory_Compliance_Servers', 'description': 'Default Network', 'network_id': 14, 'cidr': '0.0.0.12/32', 'id': 12, 'domain_id': 0, 'group': 'Regulatory_Compliance_Servers'}
+{'country_code': 'IT', 'name': 'AMVN_AP', 'description': 'AP management vlan 800', 'network_id': 37, 'cidr': '10.254.4.0/24', 'id': 35, 'domain_id': 0, 'group': 'AMVN'}
+{'name': 'all', 'description': '', 'network_id': 15, 'cidr': '0.0.0.14/32', 'id': 13, 'domain_id': 0, 'group': 'Wireless_Networks'}
+{'country_code': 'IT', 'name': 'AVN_WIRED', 'description': 'wired network for mico worfocrce vlan 301', 'network_id': 24, 'cidr': '10.70.8.0/21', 'id': 22, 'domain_id': 0, 'group': 'AVN'}
+{'country_code': 'IT', 'name': 'AVN_WIFI', 'description': 'wireless netowrk for mico workforce :MC-WF / MC-MAC. vlan 300', 'network_id': 25, 'cidr': '10.70.0.0/21', 'id': 23, 'domain_id': 0, 'group': 'AVN'}
+{'country_code': 'IT', 'name': 'AVN_WIRELESS_PRINTERS', 'description': 'Printers  for wireless vlan 302', 'network_id': 26, 'cidr': '10.70.40.0/22', 'id': 24, 'domain_id': 0, 'group': 'AVN'}
+{'country_code': 'IT', 'name': 'AVN_WIRELESS_VOIP', 'description': 'wireless voip vlan 304', 'network_id': 28, 'cidr': '10.70.16.0/21', 'id': 26, 'domain_id': 0, 'group': 'AVN'}
+{'country_code': 'IT', 'name': 'AVN_WIRED_VOIP', 'description': 'wired voip vlan  305', 'network_id': 29, 'cidr': '10.70.48.0/22', 'id': 27, 'domain_id': 0, 'group': 'AVN'}
+{'country_code': 'IT', 'name': 'IVN_WIRED_GUEST', 'description': 'guest wired network vlan 401', 'network_id': 31, 'cidr': '10.70.52.0/22', 'id': 29, 'domain_id': 0, 'group': 'IVN'}
+{'name': 'IVN_WIRED_BYOD', 'description': 'wired byod vlan 403', 'network_id': 33, 'cidr': '10.70.56.0/22', 'id': 31, 'domain_id': 0, 'group': 'IVN'}
+{'country_code': 'IT', 'name': 'IVN_WIRELESS_BYOD', 'description': 'wireless network for byod vlan 402', 'network_id': 34, 'cidr': '10.70.32.0/21', 'id': 32, 'domain_id': 0, 'group': 'IVN'}
+{'country_code': 'IT', 'name': 'IVN_WIRELESS_GUEST', 'description': 'wireless network for GUEST vlan 400', 'network_id': 35, 'cidr': '10.70.24.0/21', 'id': 33, 'domain_id': 0, 'group': 'IVN'}
+{'country_code': 'IT', 'name': 'FMVN', 'description': 'fabric management network vlan 700', 'network_id': 36, 'cidr': '10.255.3.0/24', 'id': 34, 'domain_id': 0, 'group': 'FMVN'}
+{'country_code': 'IT', 'name': 'SMVN_LOCAL', 'description': 'local system management vlan 900', 'network_id': 38, 'cidr': '10.70.64.0/24', 'id': 36, 'domain_id': 0, 'group': 'SMVN'}

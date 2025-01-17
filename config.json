@@ -1,0 +1,10 @@
+{
+"POP1":{
+  "api_url": "https://10.10.0.88/api",
+  "token": "bd7704c8-2d8c-4983-a5cf-19c8d6b687e6"
+},
+"POP2":{
+  "api_url": "https://10.11.0.88/api",
+  "token": "b8f2eb13-dfbf-4b88-a171-dcf494592406"
+}
+}
